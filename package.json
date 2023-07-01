@@ -28,8 +28,8 @@
   "devDependencies": {
     "@solidjs/testing-library": "0.8.3",
     "@suid/vite-plugin": "0.1.4",
-    "@typescript-eslint/eslint-plugin": "5.59.7",
-    "@typescript-eslint/parser": "5.59.7",
+    "@typescript-eslint/eslint-plugin": "5.60.1",
+    "@typescript-eslint/parser": "5.60.1",
     "autoprefixer": "10.4.14",
     "eslint": "8.44.0",
     "husky": "8.0.3",
