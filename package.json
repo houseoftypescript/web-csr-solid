@@ -28,7 +28,7 @@
     "@suid/material": "0.12.3",
     "apexcharts": "3.40.0",
     "solid-apexcharts": "0.2.4",
-    "solid-js": "1.7.5"
+    "solid-js": "1.7.7"
   },
   "devDependencies": {
     "@solidjs/testing-library": "0.7.1",
