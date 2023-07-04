@@ -585,10 +585,10 @@
   resolved "https://registry.yarnpkg.com/@solidjs/router/-/router-0.8.2.tgz#3dd82fd052cb8654a2948989ed3e17cf6b25b04d"
   integrity sha512-gUKW+LZqxtX6y/Aw6JKyy4gQ9E7dLqp513oB9pSYJR1HM5c56Pf7eijzyXX+b3WuXig18Cxqah4tMtF0YGu80w==
 
-"@solidjs/testing-library@0.8.3":
-  version "0.8.3"
-  resolved "https://registry.yarnpkg.com/@solidjs/testing-library/-/testing-library-0.8.3.tgz#8125e6f5a079126c74785524dd31b1c4bbeeb186"
-  integrity sha512-uZO/Pi/gh6zW5Er9sixD3qRgYrT/yhFE3Gn3GDYiCgoPIL/wVZVzXNQVMF73MVlBOpKVu6fKVna5xup4yGu5oA==
+"@solidjs/testing-library@0.8.4":
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/@solidjs/testing-library/-/testing-library-0.8.4.tgz#c0dc59e62b11c90f52444f7b19a43f11474e5025"
+  integrity sha512-HHCAlBd4P4TY03tXmoBwTO6FFM7w33LeT8Skab941eLO9l5RN7OxKEBw2fiMYvSFL2h2U7L4+W5N03iC8GbB6Q==
   dependencies:
     "@testing-library/dom" "^9.3.1"
 
